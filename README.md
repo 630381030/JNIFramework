@@ -1,4 +1,10 @@
-# 使用方法
+# 动态注册JNI
+
+使用`JNI_OnLoad()`动态注册JNI函数。
+
+Github:[https://github.com/630381030/JNIFramework](https://github.com/630381030/JNIFramework)
+
+
 
 ## 添加CPP文件
 
